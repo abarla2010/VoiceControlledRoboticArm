@@ -1,0 +1,1 @@
+This project is about a Voice Controlled Robotic Arm written in Python, which uses Google's Speech Recognition API for Speech to Text conversion and moves the robotic arm according to the spoken instruction. More information about this project can be found in the project document or the project ppt attached. 
